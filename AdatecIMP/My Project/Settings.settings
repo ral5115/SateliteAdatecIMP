@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="AdatecIMP_wsGenericTransfer_wsGenerarPlano" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost/GTIntegration/ServiciosWeb/wsGenerarPlano.asmx</Value>
+    </Setting>
+    <Setting Name="AdatecIMP_wsUnoEE_WSUNOEE" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://169.55.122.58:8043/wsunoee/WSUNOEE.asmx</Value>
+    </Setting>
+    <Setting Name="ConexionIntermedias" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=siesa.generictransfer.com,1434;Initial Catalog=GTintegrationLACOSTA;User ID=admincali;Password=4217;Integrated Security=False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
